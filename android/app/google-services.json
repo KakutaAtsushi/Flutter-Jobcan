@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "170495512209",
+    "project_id": "jobcan-automatio",
+    "storage_bucket": "jobcan-automatio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170495512209:android:26aa5a2c2d91ed52027930",
+        "android_client_info": {
+          "package_name": "com.example.jobcan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170495512209-jfl6336gg9e8a09mc6pdavvi8hd2fbl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbEjtOmDIdnEwv72TeFxA1jQ5oC3BFRdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170495512209-jfl6336gg9e8a09mc6pdavvi8hd2fbl2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "170495512209-5jq6f6k40kqoa1679ifipirsbi202cra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jobcan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
